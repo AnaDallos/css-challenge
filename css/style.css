@@ -99,39 +99,11 @@ nav .navbar-right .dropdown-content {
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+nav .navbar-right .dropdown-content a:hover {background-color: #ddd;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-nav .navbar-right .dropdown-subnav + nav .navbar-right .dropdown-subnav i{
-    /*rotate*/
-}
 
 
 /*********WIDGETS************/
